@@ -1,0 +1,8 @@
+Group: [['PC', 0]]
+
+Number of neurons: 850
+Mean frequency: 0.5974509803921569
+
+0 Hz <= f <= 0.33 Hz: 87.76% (746 neurons)
+0.33Hz < f: 12.24% (104 neurons)
+----------------------------------------

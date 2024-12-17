@@ -1,0 +1,8 @@
+Group: [['all', 0]]
+
+Number of neurons: 1003
+Mean frequency: 3.0864074443336658
+
+0 Hz <= f <= 0.33 Hz: 80.36% (806 neurons)
+0.33Hz < f: 19.64% (197 neurons)
+----------------------------------------
